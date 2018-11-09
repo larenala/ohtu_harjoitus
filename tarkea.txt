@@ -3,3 +3,5 @@
 tee paikalliseen git-repoon seuraavat
 
 lisää master-branchiin tiedosto tarkea.txt, kirjota 
+
+lisää jotain tiedoston tarkea.txt loppuun ja committaa
