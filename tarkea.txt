@@ -8,3 +8,9 @@ mergeä branchin master sisältö branchiin toka
 nyt pitäisi aiheutua konflikti, komento aiheuttaa
 
 
+=======
+. git: konflikti! [versionhallinta]
+
+tee paikalliseen git-repoon seuraavat
+
+lisää master-branchiin tiedosto tarkea.txt, kirjota 
