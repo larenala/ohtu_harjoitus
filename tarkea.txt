@@ -15,5 +15,6 @@ tee paikalliseen git-repoon seuraavat
 
 lisää master-branchiin tiedosto tarkea.txt, kirjota 
 
-
 lisää jotain tiedoston loppuun ja committaa 
+=======
+lisää jotain tiedoston t
