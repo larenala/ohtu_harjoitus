@@ -1,0 +1,10 @@
+UUSia rivejä
+
+lisää master-branchiin tiedosto tarkea.txt, kirjota sinne muutama rivi tekstiä ja committaa
+tee uusi branchi toka, mene branchiin ja editoi tiedoston tarkea.txt loppua (lisää esim loppuun muutama uusi rivi) ja committaa
+mene takaisin 
+
+
+isää jotain tiedoston loppuun ja committaa
+siirry branchiin toka
+lisää jotain tiedoston tarkea.txt loppuun ja committaa
