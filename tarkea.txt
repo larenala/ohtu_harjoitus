@@ -1,0 +1,7 @@
+isää jotain tiedoston loppuun ja committaa
+siirry branchiin toka
+lisää jotain tiedoston tarkea.txt loppuun ja committaa
+mergeä branchin master sisältö branchiin toka
+nyt pitäisi aiheutua konflikti, komento aiheuttaa
+
+
