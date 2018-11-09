@@ -1,0 +1,5 @@
+. git: konflikti! [versionhallinta]
+
+tee paikalliseen git-repoon seuraavat
+
+lisää master-branchiin tiedosto tarkea.txt, kirjota 
